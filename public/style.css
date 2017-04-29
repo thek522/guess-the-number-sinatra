@@ -1,0 +1,19 @@
+h1 {
+  font-size: 2cm;
+}
+body{
+  color: red;
+  text-align: center;
+  background-image: url("/img/light-bg1.png");
+  font-family: 'Lobster', cursive;
+}
+
+.btn {
+  color: white;
+  background-color: purple;
+  padding: 1em;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid;
+  border-radius: 25px;
+}
